@@ -134,7 +134,7 @@
     "react-dom": "^16.13.1",
     "react-styleguidist": "^11.1.5",
     "readdirp": "^3.5.0",
-    "replace-in-file": "^5.0.2",
+    "replace-in-file": "^6.2.0",
     "rimraf": "^3.0.2",
     "source-map-loader": "^0.2.4",
     "style-loader": "^1.2.1",
